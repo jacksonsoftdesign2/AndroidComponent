@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Androic Components</string>
+    <string name="title">STUDENT REGISTRATION</string>
+    <string name="desc_title">Please provide your details to continue with registration</string>
+    <string name="personal_info">Personal Information</string>
+    <string name="f_name">Full Name</string>
+    <string name="name_placeholder">Enter your full name</string>
+    <string name="gender">Gender</string>
+
+</resources>
